@@ -5,6 +5,6 @@ mapillary_images_with_orientation/
 mapillary_sequence_2/
 mapillary_sequence_3/
 mapillary_sequence_with_intrinsics/
-
+__pycache__/
 
 
