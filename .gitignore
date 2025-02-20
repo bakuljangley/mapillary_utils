@@ -1,0 +1,10 @@
+
+#ignoring a folder with all it's subdirectories, to ignore saved files and downloads
+downloads/
+mapillary_images_with_orientation/
+mapillary_sequence_2/
+mapillary_sequence_3/
+mapillary_sequence_with_intrinsics/
+
+
+
