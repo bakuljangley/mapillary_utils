@@ -5,11 +5,20 @@ This repository is a collection of utilities meant to interact with Mapillary AP
 1. The Mapillary Dataset is organized into Sequences (`MapillarySequence` class -- collection of Mapillary Images under the same sequence) and Images (`MapillaryImage` class - containing image_id, lat, long, image_path, etc).
 2. Additional functionality to download any Mapillary Image/Sequence
 3. Visualization tools to plot sequences using the `folium` python library with customizations to add tiles using PDOK (only in NL)
-4. ZOD + Mapillary Overlap ⋆˚✿˖°:
+
+
+## ZOD + Mapillary Overlap ⋆˚✿˖°:
    1. Uses `frames.json` to be constructed using the ZOD dataset to extract ZODFRames metadata.
    2. [Downloading and Using the ZOD Dataset](https://zod.zenseact.com)
    3. Overlap between ZODFrames/ZODDrives and Mapillary Sequences within a bounding box of 0.0005deg 
    4. Visualization tools to plot the overlap and inspect ZOD-Mapillary overlap
+
+The general idea is that for each frame, an area (red) around the Frame location is searched and subsequently Mapillary sequences in that area are saved. For example:
+
+
+<img src="/mapillary_utils/readme/photos/image1.png" alt="Sequences around Frame">
+
+
 
 ## TO DOs ── .✦
 
