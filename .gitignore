@@ -8,3 +8,5 @@ mapillary_sequence_with_intrinsics/
 __pycache__/
 
 
+*.ipynb
+zod/
