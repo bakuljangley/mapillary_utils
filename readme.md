@@ -16,8 +16,8 @@ This repository is a collection of utilities meant to interact with Mapillary AP
 The general idea is that for each frame, an area (red) around the Frame location is searched and subsequently Mapillary sequences in that area are saved. For example:
 
 
-<img src="/mapillary_utils/readme/photos/image1.png" alt="Sequences around Frame">
-
+<!-- <img src="/mapillary_utils/readme/photos/image1.png" alt="Sequences around Frame"> -->
+![Sequences Around Frame](https://github.com/bakuljangley/mapillary_utils/blob/main/readme/photos/image1.png)
 
 
 ## TO DOs ── .✦
