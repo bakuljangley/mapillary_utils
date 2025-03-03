@@ -17,7 +17,7 @@ The general idea is that for each frame, an area (red) around the Frame location
 
 
 <!-- <img src="/mapillary_utils/readme/photos/image1.png" alt="Sequences around Frame"> -->
-![Sequences Around Frame](https://github.com/bakuljangley/mapillary_utils/blob/main/readme/photos/image1.png)
+![Sequences Around Frame](readme/photos/image1.png)
 
 
 ## TO DOs ── .✦
