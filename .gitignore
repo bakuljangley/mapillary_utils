@@ -3,6 +3,10 @@
 
 
 /downloads
+/spanish_steps
+/vbr_mapillary_downloads
+/vbr_mapillary_overlap1
+downloads.ipynb
 
 
-__pycache__/
+__pycache__/vbr_mapillary_downloads/
